@@ -1,5 +1,4 @@
 # Budget-Allocation-App
-react_budget_app
 
 
 Designed and developed the application, using technologies such as JavaScript, React, HTML, and CSS.
